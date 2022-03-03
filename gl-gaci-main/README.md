@@ -1,14 +1,13 @@
-# GL-GACI
+# GL-GACI  BANK Simplifié en version Francaise 
 
 Ce depot contient du travail demandé pour GL
 
 ## Auteurs :
 **GACI Noufel**
-## Enseignant encadrant : 
-**ETIEN Anne** 
 
 
-## Theme du travail demandé 
+
+## Theme du Projet
 - Il consiste a exploiter nos performances en java et d'utiliser le principe TDD , ce qui consiste a crée notre programme en commencant par les tests pour valider ensuite par du code. 
 - Dans mon travail j'ai utilisé le logiciel Eclipse il me parait plus facile. 
 
